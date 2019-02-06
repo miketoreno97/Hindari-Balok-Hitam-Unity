@@ -491,7 +491,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Made by : Ableh'
+  m_Text: 'Made by : Boni'
 --- !u!222 &956619070
 CanvasRenderer:
   m_ObjectHideFlags: 0

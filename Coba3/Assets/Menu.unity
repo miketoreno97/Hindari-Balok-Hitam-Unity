@@ -491,7 +491,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ableh The Game
+  m_Text: Hindari Balok Hitam The Game
 --- !u!222 &956619070
 CanvasRenderer:
   m_ObjectHideFlags: 0
